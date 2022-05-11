@@ -1,0 +1,17 @@
+.__image_wrapper{
+    background-color: #f0f0f0;
+    padding: 15px;
+    width: 100%;
+    text-align: center;
+}
+
+.__image_wrapper img{
+    width: 800px;
+
+    object-fit: cover;
+}
+
+.__content{
+    padding: 15px;
+    color: #212f5d;
+}
